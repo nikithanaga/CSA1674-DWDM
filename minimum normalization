@@ -1,0 +1,8 @@
+diabetes<-read.csv("C:\\Users\\HP\\Downloads\\diabetes.csv")
+> A<-c(diabetes$Age)
+> #step 2
+  > minimum<-min(diabetes$Age)
+  OUTPUT:
+  minimum
+[1] 21
+> 
