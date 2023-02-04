@@ -1,0 +1,8 @@
+diabetes<-read.csv("C:\Users\HP\Downloads\diabetes.csv")
+A<-c(diabetes$Age)
+#step 1
+Mean<-mean(A)
+OUTPUT:
+mean(A)
+[1] 33.24089
+> 
