@@ -1,0 +1,8 @@
+#data
+set.seed(9)
+x <- rnorm(1000)
+y <- rnorm(1000)
+#smooth scatter plot
+smoothScatter(y ~ x)
+#equivalent to:
+smoothScatter(x,y)
